@@ -1,4 +1,4 @@
-# Digit Recognizer from Scratch
+# Digit Recognizer from Scratch (MNIST)
 
 A from-scratch implementation of a digit classifier for the MNIST handwritten digits dataset using NumPy and basic Python tooling. The notebook covers data loading, preprocessing, model training, and evaluation.
 
