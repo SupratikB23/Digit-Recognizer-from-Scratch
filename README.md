@@ -14,15 +14,6 @@ Open in Kaggle:
 
 - https://www.kaggle.com/code/supratikbhowal/digit-recognizer-from-scratch-mnist
 
-Embedded notebook:
-
-Note: GitHub may not render iframes in README files. If the embed does not display, use the Kaggle link above.
-
-<iframe src="https://www.kaggle.com/embed/supratikbhowal/digit-recognizer-from-scratch-mnist?kernelSessionId=243499162" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Digit Recognizer from Scratch (MNIST)"></iframe>
-
-The embed uses the provided Kaggle kernel session ID. Update it if the session expires or if you want to rotate it.
-To refresh it, open the notebook in Kaggle and copy the latest kernelSessionId from the embed link.
-
 ## Results
 
 <img src="https://github.com/user-attachments/assets/ae81c4a3-78e1-43dd-aba1-95e9074c6b8a" alt="Training and validation loss across epochs">
