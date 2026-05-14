@@ -23,6 +23,7 @@ Embedded notebook:
   title="Digit Recognizer from Scratch - Kaggle Notebook"
   loading="lazy"
   allow="fullscreen">
+  This embedded notebook may not load in some Markdown viewers. Use the Kaggle link above to open it.
 </iframe>
 
 If the embed does not render in your viewer, use the Kaggle link above.
