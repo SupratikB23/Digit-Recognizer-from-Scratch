@@ -19,11 +19,10 @@ Embedded notebook:
 <iframe
   src="https://www.kaggle.com/code/supratikbhowal/digit-recognizer-from-scratch-mnist?kernelSessionId=243499162"
   height="800"
-  style="width: 100%;"
+  style="width: 100%; border: 0;"
   title="Digit Recognizer from Scratch - Kaggle Notebook"
   loading="lazy"
-  allow="fullscreen"
-  frameborder="0">
+  allow="fullscreen">
 </iframe>
 
 If the embed does not render in your viewer, use the Kaggle link above.
