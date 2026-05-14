@@ -26,7 +26,7 @@ Embedded notebook:
 </iframe>
 
 If the embed does not render in your viewer, use the Kaggle link above.
-The embed uses a Kaggle kernel session ID and may need updating if the session expires.
+The embed uses a Kaggle kernel session ID and may need updating if the session expires. To refresh it, open the notebook in Kaggle and copy the latest kernelSessionId from the embed link.
 
 ## Results
 
