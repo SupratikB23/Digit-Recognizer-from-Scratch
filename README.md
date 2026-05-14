@@ -16,6 +16,8 @@ Open in Kaggle:
 
 Embedded notebook:
 
+Note: GitHub may not render iframes in README files. If the embed does not display, use the Kaggle link above.
+
 <iframe
   src="https://www.kaggle.com/code/supratikbhowal/digit-recognizer-from-scratch-mnist?kernelSessionId=243499162"
   height="800"
