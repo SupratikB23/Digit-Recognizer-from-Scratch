@@ -18,15 +18,7 @@ Embedded notebook:
 
 Note: GitHub may not render iframes in README files. If the embed does not display, use the Kaggle link above.
 
-<iframe
-  src="https://www.kaggle.com/code/supratikbhowal/digit-recognizer-from-scratch-mnist?kernelSessionId=243499162"
-  height="800"
-  style="width: 100%; border: 0;"
-  title="Digit Recognizer from Scratch - Kaggle Notebook"
-  loading="lazy"
-  allow="fullscreen">
-  This embedded notebook may not load in some Markdown viewers. Use the Kaggle link above to open it.
-</iframe>
+<iframe src="https://www.kaggle.com/embed/supratikbhowal/digit-recognizer-from-scratch-mnist?kernelSessionId=243499162" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Digit Recognizer from Scratch (MNIST)"></iframe>
 
 The embed uses the provided Kaggle kernel session ID. Update it if the session expires or if you want to rotate it.
 To refresh it, open the notebook in Kaggle and copy the latest kernelSessionId from the embed link.
