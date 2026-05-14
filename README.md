@@ -28,8 +28,7 @@ Note: GitHub may not render iframes in README files. If the embed does not displ
   This embedded notebook may not load in some Markdown viewers. Use the Kaggle link above to open it.
 </iframe>
 
-If the embed does not render in your viewer, use the Kaggle link above.
-The embed uses a Kaggle kernel session ID and may need updating if the session expires.
+The embed uses the provided Kaggle kernel session ID. Update it if the session expires or if you want to rotate it.
 To refresh it, open the notebook in Kaggle and copy the latest kernelSessionId from the embed link.
 
 ## Results
