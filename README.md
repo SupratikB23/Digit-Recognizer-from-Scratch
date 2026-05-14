@@ -26,12 +26,13 @@ Embedded notebook:
 </iframe>
 
 If the embed does not render in your viewer, use the Kaggle link above.
+The embed uses a Kaggle kernel session ID and may need updating if the session expires.
 
 ## Results
 
-<img src="https://github.com/user-attachments/assets/ae81c4a3-78e1-43dd-aba1-95e9074c6b8a" alt="Loss vs epochs chart">
+<img src="https://github.com/user-attachments/assets/ae81c4a3-78e1-43dd-aba1-95e9074c6b8a" alt="Training and validation loss across epochs">
 
-<img src="https://github.com/user-attachments/assets/333f3779-c20c-4c2c-aa11-199a0ba7d3a0" alt="Prediction samples">
+<img src="https://github.com/user-attachments/assets/333f3779-c20c-4c2c-aa11-199a0ba7d3a0" alt="Sample digit predictions from the trained model">
 
 ## Local Setup
 
